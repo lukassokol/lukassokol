@@ -4,7 +4,7 @@
 
 
 ## 📚 Education
-- Bachelors degree in Informatics @ [UNIZA FRI]([https://www.fei.stuba.sk/](https://www.linkedin.com/school/fakulta-riadenia-a-informatiky/))
+- Bachelors degree in Informatics @ [UNIZA FRI]([https://www.fei.stuba.sk/](https://www.linkedin.com/school/fakulta-riadenia-a-informatiky/)
 
 <a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-sokol-46151a227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
