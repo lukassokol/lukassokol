@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## 😄 About me
+
+
+## 📚 Education
+- Bachelors degree in Informatics @ [UNIZA FRI]([https://www.fei.stuba.sk/](https://www.linkedin.com/school/fakulta-riadenia-a-informatiky/))
+
+<a href="https://www.linkedin.com/in/luk%C3%A1%C5%A1-sokol-46151a227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **lukassokol/lukassokol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
